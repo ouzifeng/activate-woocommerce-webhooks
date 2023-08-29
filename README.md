@@ -2,7 +2,7 @@
 
 A program that checks if any WooCommerce webhooks have been disabled and automatically renables them
 
-I built this because we were relying on WooCommerce webhooks to update third party platforms. Theses webhooks would often go down, leading to thrid party systems becoming out of sync.
+I built this because we were relying on WooCommerce webhooks to update third party platforms. These webhooks would often go down, leading to third party systems becoming out of sync.
 
 ## Infomation
 
