@@ -1,6 +1,6 @@
-# activate-woocommerce-webhooks
+# Automatically Activate Any Disabled WooCommerce Webhooks
 
-A program that checks if any WooCommerce webhooks have been disbaled and automatically renables them
+A program that checks if any WooCommerce webhooks have been disabled and automatically renables them
 
 I built this because we were relying on WooCommerce webhooks to update third party platforms. Theses webhooks would often go down, leading to thrid party systems becoming out of sync.
 
